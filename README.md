@@ -1,7 +1,7 @@
 # Coursera Capstone
 ---
 ### This repository is a part of the Coursera Capstone Project for the IBM Data Science Professional Course.
-### The content and use of each of the files is explained below. All the code has been written on Jupyter Notebook in Python.
+### The content and use of each of the files in the repository, is explained below. All the code has been written on Jupyter Notebook in Python.
 ### The main aim of the project is to cluster the different neighborhoods in the city of Toronto. This project serves as a stepping stone towards the final project of this Professional certificate to which I have dedicated another repository.
 
 `Finding Neighborhoods.ipynb`  **In this file we extract information about the different neighborhoods of Toronto from a Wikipedia page. Using this data we create our dataframe. The dataframe is then cleaned for missing values. This dataframe is then saved as** `Neighborhoods.csv`**.**
